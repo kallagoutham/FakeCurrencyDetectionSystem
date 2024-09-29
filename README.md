@@ -31,6 +31,10 @@ The program will function in the following way:
 3. Same process is followed for the Android application as well.
 4. An image of the note is passed as input to the Android application which returns the result with an accuracy of 70-75%.
 
+## Key Improvements
+
+Increasing output efficiency to 99.999453 from 99.91 by training with more data and adding a extra layers.
+
 ## Owner
-Made By: Goutham, Mounika, Kavya D
-Reference from :heart:&nbsp;  by [Viram Jain](https://github.com/viram-jain)
+Made By: Goutham, Mounika, Kavya D <br>
+Reference from by Viram Jain
